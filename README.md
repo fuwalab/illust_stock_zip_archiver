@@ -6,6 +6,14 @@
 - PIXTA をお使いのイラストレーター
   - 提出時に `png`, `eps` を ZIP 圧縮するのが毎回面倒な方
   
+## 動作要件
+- Windows 7 以上
+- PowerShell version 5.0 以上
+
+## 動作確認環境
+- Windows 10 Pro 64 bit
+- PowerShell version 5.1
+
 ## 使い方
 
 1. 本ツールのダウンロード
