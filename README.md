@@ -18,7 +18,8 @@
     1. `archive.bat` をダブルクリックする
         ![2](https://github.com/fuwalab/pixta_zip_archiver/blob/master/assets/2.png)
     1. 実行中
-        ![3](https://github.com/fuwalab/pixta_zip_archiver/blob/master/assets/3.png)
+        - 処理が始まると自動で表示され、完了すると閉じます
+          ![3](https://github.com/fuwalab/pixta_zip_archiver/blob/master/assets/3.png)
 1. ファイルの確認
     1. 一つ上の階層（作業フォルダ）に作成されている `zip` フォルダに移動する
        ![4](https://github.com/fuwalab/pixta_zip_archiver/blob/master/assets/4.png)
