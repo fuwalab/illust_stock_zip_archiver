@@ -7,7 +7,7 @@
 ############################################
 
 $path = "../*.*"
-# 対象ファイルは png, eps のみ
+# 対象ファイルは jpg, eps のみ
 $items = Get-ChildItem $path -include *.jpg, *.jpeg, *eps
 
 $array = @{}
