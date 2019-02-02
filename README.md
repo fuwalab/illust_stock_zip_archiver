@@ -24,33 +24,33 @@
 ### PIXTA の場合
 1. 作業フォルダへの配置
     - 解凍してできた `archive` フォルダをそのまま `png`, `eps` ファイル群のある作業フォルダへコピー
-        ![1](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/1.png)
+        ![1](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/1.png)
 1. スクリプトの実行
     1. `archive` フォルダへ移動する
     1. `archive_pixta.bat` をダブルクリックする
-        ![2](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/2.png)
+        ![2](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/2.png)
     1. 実行中
         - 処理が始まると自動で表示され、完了すると閉じます
-          ![3](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/3.png)
+          ![3](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/3.png)
 1. ファイルの確認
     1. 一つ上の階層（作業フォルダ）に作成されている `zip` フォルダに移動する
-       ![4](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/4.png)
-       ![5](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/5.png)
+       ![4](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/4.png)
+       ![5](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/5.png)
     1. ファイルの中身を確認して正しく圧縮できていることを確認する
-        ![6](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/6.png)
+        ![6](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/6.png)
         
 ### Adobe Stock の場合
 1. 作業フォルダへの配置
     - 解凍してできた `archive` フォルダをそのまま `jpg`, `eps` ファイル群のある作業フォルダへコピー
-        ![1](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/1.png)
+        ![1](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/1.png)
 1. スクリプトの実行
     1. `archive` フォルダへ移動する
     1. `archive_adobe.bat` をダブルクリックする
-        ![2](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/2.png)
+        ![2](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/2.png)
     1. 実行中
         - 処理が始まると自動で表示され、完了すると閉じます
-          ![3](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/3.png)
+          ![3](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/3.png)
 1. ファイルの確認
     1. 一つ上の階層（作業フォルダ）に作成されている `zip` フォルダに移動する
-       ![4](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/4.png)
-       ![5](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/blob/master/assets/5.png)
+       ![4](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/4.png)
+       ![5](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/master/assets/5.png)
