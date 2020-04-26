@@ -17,9 +17,8 @@
 - PowerShell version 5.1
 
 ## 使い方
-
 1. 本ツールのダウンロード
-    - [ここ](https://raw.githubusercontent.com/fuwalab/illust_stock_zip_archiver/releases) から、最新のリリース（ `zip` ）をダウンロード
+    - [ここ](https://github.com/fuwalab/illust_stock_zip_archiver/releases) から、最新のリリース（ `zip` ）をダウンロード
 
 ### PIXTA の場合
 1. 作業フォルダへの配置
